@@ -3,7 +3,7 @@ echo -e "Checking prerequisites \n"
 if [[  ]]
 hash xdotool || echo -e "Installing xdotool \n" && apt install xdotool
 
-source /home/gigasd/.config/Instance/Instance.txt
+source /home/$USER/.config/Instance/Instance.txt
 
 
 
