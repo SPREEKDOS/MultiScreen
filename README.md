@@ -1,6 +1,6 @@
 # MultiScreen
-## Status Update:Working on a way to make it work on my mechine 
-## Status 
+## Project Update: Working on a way to make it work on my mechine 
+## Status : Learning C/C++
 ## Programs:
 ### Multiseat 
 #### Problem: Need additional graphics card (hack is not worth it considering the goal).
